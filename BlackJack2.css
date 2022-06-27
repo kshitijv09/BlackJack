@@ -1,0 +1,22 @@
+body{
+	background: url("https://cdn.hswstatic.com/gif/how-to-play-blackjack-lead.jpg");
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+h1{
+	color: goldenrod;
+}
+button{
+	color: black;
+    width: 200px;
+    height: 40px;
+    background: #57233b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    border: none;
+    border-radius: 5%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
